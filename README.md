@@ -1,10 +1,16 @@
 ### Hi there 👋
 
 **Haider Ali**
+
+
 😄 Pronouns: He/Him
 
 
 🔭 I’m currently working on Rust related projects
+
+
+👯 I’m looking to collaborate on Python, React and Rust related Projects
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Ali-Dev&theme=tokyonight)
